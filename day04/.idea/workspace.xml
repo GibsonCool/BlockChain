@@ -277,7 +277,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.itcast.day04._13_枚举加强Kt">
+  <component name="RunManager" selected="Kotlin.com.gibsoncool.demo._08_扩展函数Kt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -310,6 +310,16 @@
       <option name="MAIN_CLASS_NAME" value="com.gibsoncool.demo7._11_和java一样的单例Kt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
+    <configuration name="com.gibsoncool.demo._08_扩展函数Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="day04" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.gibsoncool.demo._08_扩展函数Kt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
     <configuration name="com.gibsoncool.demo._09_kotlin的object单例Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="day04" />
       <option name="VM_PARAMETERS" />
@@ -318,16 +328,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.gibsoncool.demo._09_kotlin的object单例Kt" />
-      <option name="WORKING_DIRECTORY" />
-    </configuration>
-    <configuration name="com.gibsoncool.demo.test1.TestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="day04" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.gibsoncool.demo.test1.TestKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="com.itcast.day04._12_枚举Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -373,19 +373,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.com.gibsoncool.demo.test1.TestKt" />
       <item itemvalue="Kotlin.com.gibsoncool.demo._09_kotlin的object单例Kt" />
       <item itemvalue="Kotlin.com.gibsoncool.demo7._11_和java一样的单例Kt" />
       <item itemvalue="Kotlin.com.itcast.day04._12_枚举Kt" />
       <item itemvalue="Kotlin.com.itcast.day04._13_枚举加强Kt" />
+      <item itemvalue="Kotlin.com.gibsoncool.demo._08_扩展函数Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.gibsoncool.demo._08_扩展函数Kt" />
         <item itemvalue="Kotlin.com.itcast.day04._13_枚举加强Kt" />
         <item itemvalue="Kotlin.com.itcast.day04._12_枚举Kt" />
         <item itemvalue="Kotlin.com.gibsoncool.demo7._11_和java一样的单例Kt" />
         <item itemvalue="Kotlin.com.gibsoncool.demo._09_kotlin的object单例Kt" />
-        <item itemvalue="Kotlin.com.gibsoncool.demo.test1.TestKt" />
       </list>
     </recent_temporary>
   </component>

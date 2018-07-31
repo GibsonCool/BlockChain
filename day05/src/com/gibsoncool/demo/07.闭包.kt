@@ -6,6 +6,7 @@ fun main(args: Array<String>) {
     test()
 
     val tb = testB()
+    println(tb)
     tb()
     tb()
     tb()

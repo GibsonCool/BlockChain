@@ -17,6 +17,7 @@ fun main(args: Array<String>) {
     son.sayHello()
     Father().sayHello()
     Father::sayHello
+    sayHello()
 }
 
 /**
