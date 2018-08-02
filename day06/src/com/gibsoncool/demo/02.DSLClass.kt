@@ -12,6 +12,7 @@ fun main(args: Array<String>) {
             number = 114
         }
     }
+    person.name = "haha"
     println(person)
 
 }
